@@ -24,7 +24,7 @@
 
 #### 링크:
 
-[DBBUF.h README](DBBUF/README.md)
+[DBBUF.h README](DBBUF/readme.md)
 
 ### BSP.h
 
@@ -39,7 +39,7 @@
 
 #### 링크:
 
-[BSP.h README](BSP/README.md)
+[BSP.h README](BSP/readme.md)
 
 ## 사용 예시
 
